@@ -102,8 +102,13 @@
     "@nuxtjs/pwa": "^3.3.5",
     "@nuxtjs/robots": "^2.5.0",
     "@nuxtjs/sitemap": "^2.4.0",
+  <<<<<<< dependabot/npm_and_yarn/testing-library/jest-dom-5.12.0
+    "@testing-library/jest-dom": "^5.12.0",
+    "@vue/test-utils": "^1.1.2",
+  =======
     "@testing-library/jest-dom": "^5.11.9",
     "@vue/test-utils": "^1.1.4",
+  >>>>>>> dev
     "autoprefixer": "^10.2.4",
     "babel-core": "^7.0.0-bridge.0",
     "babel-eslint": "^10.1.0",
